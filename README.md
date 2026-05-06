@@ -2,8 +2,8 @@
 
 ## Integrantes
 * **Angelita Dias** - [angelita-cesar]
-* **Guaraci Rios** - []
-* **Mikael Mulatinho** - []
+* **Guaraci Rios** - [gbr2]
+* **Mikael Mulatinho** - [mmulatinho]
 
 ---
 

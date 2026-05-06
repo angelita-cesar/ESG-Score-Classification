@@ -1,4 +1,4 @@
-# Prisma Key: Sistema Inteligente de Classificação de Risco ESG
+# 🌎 Prisma Key: Sistema Inteligente de Classificação de Risco ESG
 
 ## Integrantes
 * **Angelita Dias** - [angelita-cesar]

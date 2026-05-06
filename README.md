@@ -14,17 +14,57 @@
 * **Professores:** João Tinôco e Diego Bezerra
 ---
 
-## 🚀 Sobre a Solução (SIDD-ESG)
+##  Sobre a Solução
 O **Prisma Key** é uma ferramenta avançada de análise de conformidade e risco para fornecedores, baseada em pilares Ambientais, Sociais e de Governança. O sistema vai além do simples preenchimento de formulários, utilizando Machine Learning para combater o greenwashing e identificar riscos ocultos.
 
-### Diferenciais Técnicos:
-* **NLP Forense:** Análise de densidade semântica para validar se as explicações dos fornecedores possuem evidências reais ou são apenas textos genéricos.
-* **Modelo Híbrido:**
-    * **Árvore de Decisão:** Implementação de regras críticas de negócio (Sanções, Compliance, Inconsistências).
-    * **KNN (K-Nearest Neighbors):** Utilizado para **Benchmarking Interno** e detecção de *outliers*. Se um fornecedor apresenta scores distantes dos seus pares de setor/porte, o sistema gera um alerta de auditoria.
-* **Materialidade Dinâmica:** Pesos automáticos baseados no setor (ex: Setor industrial foca mais no pilar Ambiental; Setor de tecnologia foca mais no pilar Social).
+[Google Sites - Projeto Prisma Key](https://sites.google.com/cesar.school/slaesg/home)
 
 ---
+
+## Instruções de Compilação e Execução
+
+**Pré-requisitos:** Python 3.9+ instalado.
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/seu-usuario/prisma-key.git
+   cd prisma-key
+   ```
+
+2. **Crie e ative um ambiente virtual:**
+   ```bash
+   python -m venv venv
+   # No Windows:
+   venv\Scripts\activate
+   # No Linux/Mac:
+   source venv/bin/activate
+   ```
+
+3. **Instale as dependências:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Execute o Dashboard (Streamlit):**
+   ```bash
+   streamlit run app/main.py
+   ```
+
+### 2. Execução via Docker
+
+**Pré-requisitos:** Docker instalado.
+
+1. **Construa a imagem:**
+   ```bash
+   docker build -t prisma-key .
+   ```
+
+2. **Execute o container:**
+   ```bash
+   docker run -p 8501:8501 prisma-key
+   ```
+   *Após a execução, acesse `http://localhost:8501` no seu navegador.*
+
 
 ## 🛠️ Estrutura do Repositório
 A organização do projeto segue as melhores práticas de MLOps:

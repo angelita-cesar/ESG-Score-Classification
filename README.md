@@ -15,7 +15,7 @@
 ---
 
 ##  Sobre a Solução
-O **Prisma Key** é uma ferramenta avançada de análise de conformidade e risco para fornecedores, baseada em pilares Ambientais, Sociais e de Governança. O sistema vai além do simples preenchimento de formulários, utilizando Machine Learning para combater o greenwashing e identificar riscos ocultos.
+O Prisma Key é uma solução orientada a dados desenvolvida para o monitoramento preditivo de riscos ESG. Integrando engenharia de dados e modelos supervisionados de Machine Learning, a ferramenta substitui processos manuais de auditoria, classificando com precisão a probabilidade de não conformidade de cada fornecedor e facilitando a geração de planos de ação.
 
 [Google Sites - Projeto Prisma Key](https://sites.google.com/cesar.school/slaesg/home)
 
@@ -67,7 +67,6 @@ O **Prisma Key** é uma ferramenta avançada de análise de conformidade e risco
 
 
 ## 🛠️ Estrutura do Repositório
-A organização do projeto segue as melhores práticas de MLOps:
 
 ```text
 ├── data/           # Amostras da base de dados de fornecedores

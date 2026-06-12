@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/839384513237346152/94d0ee6290bd40a081617ad1a5b3df31/artifacts
+end_time: 1779224127273
+entry_point_name: ''
+experiment_id: '839384513237346152'
+lifecycle_stage: active
+run_id: 94d0ee6290bd40a081617ad1a5b3df31
+run_name: tuning_run_2026-05-19_20-55-24
+run_uuid: 94d0ee6290bd40a081617ad1a5b3df31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779224124220
+status: 3
+tags: []
+user_id: root

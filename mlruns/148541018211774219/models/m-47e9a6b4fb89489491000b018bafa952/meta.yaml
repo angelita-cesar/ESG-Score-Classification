@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/mikae/OneDrive/%C3%81rea%20de%20Trabalho/CESAR/Projetos%203/mlruns/148541018211774219/models/m-47e9a6b4fb89489491000b018bafa952/artifacts
+creation_timestamp: 1780529824607
+experiment_id: '148541018211774219'
+last_updated_timestamp: 1780529828262
+model_id: m-47e9a6b4fb89489491000b018bafa952
+model_type: null
+name: modelo_random_forest
+source_run_id: d30dfd635c1f48b79b63e048ca559f32
+status: 2
+status_message: null

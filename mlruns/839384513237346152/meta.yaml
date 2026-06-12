@@ -1,0 +1,6 @@
+artifact_location: file:///app/mlruns/839384513237346152
+creation_time: 1779224117955
+experiment_id: '839384513237346152'
+last_update_time: 1779224117955
+lifecycle_stage: active
+name: Random_Forest_Hyperparameter_Tuning

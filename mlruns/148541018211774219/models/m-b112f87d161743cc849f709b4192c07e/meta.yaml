@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/mikae/OneDrive/%C3%81rea%20de%20Trabalho/CESAR/Projetos%203/mlruns/148541018211774219/models/m-b112f87d161743cc849f709b4192c07e/artifacts
+creation_timestamp: 1780520515061
+experiment_id: '148541018211774219'
+last_updated_timestamp: 1780520530306
+model_id: m-b112f87d161743cc849f709b4192c07e
+model_type: null
+name: modelo_knn
+source_run_id: fadc66095bed40ffa985f359e03b4d1d
+status: 2
+status_message: null

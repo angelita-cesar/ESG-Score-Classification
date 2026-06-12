@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/mikae/OneDrive/%C3%81rea%20de%20Trabalho/CESAR/Projetos%203/mlruns/148541018211774219/4aeef4c66a654aadb5d7ff9e876e37ba/artifacts
+end_time: 1780523983962
+entry_point_name: ''
+experiment_id: '148541018211774219'
+lifecycle_stage: active
+run_id: 4aeef4c66a654aadb5d7ff9e876e37ba
+run_name: Otimizacao_KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780523970170
+status: 3
+tags: []
+user_id: mikae

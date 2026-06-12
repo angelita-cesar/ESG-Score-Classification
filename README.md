@@ -27,8 +27,8 @@ O Prisma Key é uma solução orientada a dados desenvolvida para o monitorament
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/ESG-Score-Classification.git
-   cd ESG-Score-Classification
+   git clone https://github.com/seu-usuario/prisma-key.git
+   cd prisma-key
    ```
 
 2. **Crie e ative um ambiente virtual:**

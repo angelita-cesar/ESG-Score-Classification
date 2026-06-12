@@ -1,0 +1,710 @@
+name,industry,environment_grade,environment_level,social_grade,social_level,governance_grade,governance_level,environment_score,social_score,governance_score,total_score,total_grade,total_level
+Walt Disney Co,Media,A,High,BB,Medium,BB,Medium,510,316,321,1147,BBB,High
+General Motors Co,Automobiles,A,High,BB,Medium,B,Medium,510,303,255,1068,BBB,High
+WW Grainger Inc,Trading Companies and Distributors,B,Medium,BB,Medium,B,Medium,255,385,240,880,BB,Medium
+Mohawk Industries Inc,Consumer products,A,High,B,Medium,BB,Medium,570,298,303,1171,BBB,High
+Live Nation Entertainment Inc,Media,BBB,High,BB,Medium,B,Medium,492,310,250,1052,BBB,High
+Las Vegas Sands Corp,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,547,318,313,1178,BBB,High
+Clorox Co,Consumer products,A,High,BB,Medium,BB,Medium,560,350,345,1255,A,High
+ATA Creativity Global,Diversified Consumer Services,B,Medium,B,Medium,B,Medium,203,200,205,608,B,Medium
+American Airlines Group Inc,Airlines,B,Medium,B,Medium,B,Medium,270,211,265,746,B,Medium
+Atlantic American Corp,Insurance,B,Medium,B,Medium,BB,Medium,220,221,300,741,B,Medium
+Applied Optoelectronics Inc,Communications,BB,Medium,B,Medium,B,Medium,311,256,218,785,BB,Medium
+Aaon Inc,Building,A,High,BB,Medium,B,Medium,500,300,223,1023,BBB,High
+Apple Inc,Technology,BB,Medium,B,Medium,B,Medium,355,281,255,891,BB,Medium
+Autoscope Technologies Corp,Electrical Equipment,BBB,High,B,Medium,B,Medium,410,286,240,936,BBB,High
+Atlas Air Worldwide Holdings Inc,Logistics and Transportation,A,High,B,Medium,B,Medium,520,243,237,1000,BBB,High
+Aadi Bioscience Inc,Biotechnology,B,Medium,B,Medium,B,Medium,200,201,203,604,B,Medium
+Abeona Therapeutics Inc,Biotechnology,B,Medium,BB,Medium,BB,Medium,205,306,310,821,BB,Medium
+Airbnb Inc,Hotels Restaurants and Leisure,A,High,A,High,BBB,High,505,570,400,1475,A,High
+ARCA Biopharma Inc,Biotechnology,B,Medium,B,Medium,B,Medium,200,222,290,712,B,Medium
+ABIOMED Inc,Health Care,A,High,BB,Medium,BB,Medium,500,324,305,1129,BBB,High
+Acumen Pharmaceuticals Inc,Biotechnology,B,Medium,B,Medium,B,Medium,205,201,200,606,B,Medium
+Absci Corp,Life Sciences Tools and Services,B,Medium,B,Medium,B,Medium,205,224,230,659,B,Medium
+Allegiance Bancshares Inc,Banking,B,Medium,BB,Medium,BB,Medium,298,300,300,898,BB,Medium
+Arbutus Biopharma Corp,Biotechnology,B,Medium,B,Medium,BB,Medium,203,204,338,745,B,Medium
+ABVC Biopharma Inc,Biotechnology,B,Medium,B,Medium,B,Medium,220,212,205,637,B,Medium
+ACADIA Pharmaceuticals Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,230,230,305,765,BB,Medium
+Accolade Inc,Health Care,B,Medium,B,Medium,B,Medium,255,254,235,744,B,Medium
+Adicet Bio Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,215,211,305,731,B,Medium
+Abcellera Biologics Inc,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,540,354,345,1239,A,High
+Ameris Bancorp,Banking,B,Medium,BB,Medium,B,Medium,290,300,250,840,BB,Medium
+Achilles Therapeutics PLC,Biotechnology,B,Medium,B,Medium,B,Medium,230,288,285,803,BB,Medium
+Acadia Healthcare Company Inc,Health Care,BB,Medium,B,Medium,B,Medium,330,231,220,781,BB,Medium
+ACI Worldwide Inc,Technology,A,High,BB,Medium,BB,Medium,500,327,300,1127,BBB,High
+Axcelis Technologies Inc,Semiconductors,A,High,BB,Medium,B,Medium,515,306,260,1081,BBB,High
+AC Immune SA,Biotechnology,B,Medium,B,Medium,BB,Medium,250,296,305,851,BB,Medium
+Achieve Life Sciences Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,215,222,305,742,B,Medium
+ACM Research Inc,Semiconductors,BBB,High,B,Medium,BB,Medium,410,232,325,967,BBB,High
+Acorda Therapeutics Inc,Biotechnology,B,Medium,BB,Medium,BB,Medium,230,307,310,847,BB,Medium
+ACNB Corp,Banking,B,Medium,B,Medium,B,Medium,220,219,215,654,B,Medium
+Aclaris Therapeutics Inc,Pharmaceuticals,B,Medium,B,Medium,B,Medium,230,207,220,657,B,Medium
+AcelRx Pharmaceuticals Inc,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,200,237,300,737,B,Medium
+Enact Holdings Inc,Financial Services,A,High,BB,Medium,BB,Medium,540,328,315,1183,BBB,High
+Acacia Research Corp,Financial Services,B,Medium,B,Medium,B,Medium,200,200,275,675,B,Medium
+ACV Auctions Inc,Commercial Services and Supplies,B,Medium,B,Medium,BB,Medium,235,262,315,812,BB,Medium
+Adagene Inc,Biotechnology,B,Medium,BB,Medium,BB,Medium,295,301,305,901,BBB,High
+Acurx Pharmaceuticals Inc,Biotechnology,B,Medium,BB,Medium,BB,Medium,235,301,305,841,BB,Medium
+Adobe Inc,Technology,B,Medium,B,Medium,B,Medium,200,221,200,621,B,Medium
+Adaptimmune Therapeutics PLC,Biotechnology,BB,Medium,B,Medium,BB,Medium,365,283,305,953,BBB,High
+ADMA Biologics Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,240,264,320,824,BB,Medium
+Advanced Emissions Solutions Inc,Chemicals,B,Medium,B,Medium,BB,Medium,205,201,300,706,B,Medium
+Analog Devices Inc,Semiconductors,BB,Medium,BB,Medium,BB,Medium,350,318,300,968,BBB,High
+Adial Pharmaceuticals Inc,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,200,203,300,703,B,Medium
+Adamis Pharmaceuticals Corp,Pharmaceuticals,B,Medium,B,Medium,B,Medium,285,204,215,704,B,Medium
+Acer Therapeutics Inc,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,223,291,310,824,BB,Medium
+Addus Homecare Corp,Health Care,B,Medium,B,Medium,B,Medium,210,215,218,643,B,Medium
+Arch Capital Group Ltd,Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Adaptive Biotechnologies Corp,Life Sciences Tools and Services,B,Medium,BB,Medium,B,Medium,260,348,260,868,BB,Medium
+Autodesk Inc,Technology,A,High,BB,Medium,BB,Medium,555,304,310,1169,BBB,High
+Automatic Data Processing Inc,Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+Aditxt Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,210,224,305,739,B,Medium
+Advantage Solutions Inc,Media,A,High,B,Medium,BB,Medium,515,269,328,1112,BBB,High
+Adverum Biotechnologies Inc,Biotechnology,B,Medium,BB,Medium,B,Medium,262,321,235,818,BB,Medium
+Aehr Test Systems,Semiconductors,B,Medium,B,Medium,BB,Medium,290,262,300,852,BB,Medium
+Antelope Enterprise Holdings Ltd,Building,B,Medium,B,Medium,BB,Medium,238,237,325,800,BB,Medium
+Alset Ehome International Inc,Real Estate,A,High,B,Medium,B,Medium,520,207,210,937,BBB,High
+Advanced Energy Industries Inc,Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+American Electric Power Company Inc,Utilities,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Aethlon Medical Inc,Health Care,B,Medium,B,Medium,BB,Medium,200,262,315,777,BB,Medium
+Allied Esports Entertainment Inc,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+AudioEye Inc,Technology,B,Medium,BB,Medium,BB,Medium,235,301,308,844,BB,Medium
+Aerie Pharmaceuticals Inc,Pharmaceuticals,A,High,B,Medium,BB,Medium,500,264,310,1074,BBB,High
+ADDvantage Technologies Group Inc,Electrical Equipment,B,Medium,B,Medium,BB,Medium,235,234,300,769,BB,Medium
+Affimed NV,Biotechnology,BB,Medium,BB,Medium,BB,Medium,368,304,310,982,BBB,High
+AFC Gamma Inc,Real Estate,B,Medium,B,Medium,B,Medium,255,204,226,685,B,Medium
+Affinity Bancshares Inc,Banking,B,Medium,B,Medium,B,Medium,200,207,200,607,B,Medium
+Affirm Holdings Inc,Technology,B,Medium,BB,Medium,BB,Medium,225,335,335,895,BB,Medium
+Acutus Medical Inc,Health Care,B,Medium,B,Medium,B,Medium,205,211,235,651,B,Medium
+Agenus Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,290,245,300,835,BB,Medium
+Afya Ltd,Diversified Consumer Services,B,Medium,B,Medium,B,Medium,290,203,205,698,B,Medium
+AgroFresh Solutions Inc,Chemicals,A,High,BB,Medium,B,Medium,500,301,275,1076,BBB,High
+Agrify Corp,Machinery,A,High,BB,Medium,BB,Medium,540,361,305,1206,A,High
+AgileThought Inc,Technology,BB,Medium,B,Medium,BB,Medium,340,299,305,944,BBB,High
+AGM Group Holdings Inc,Financial Services,B,Medium,B,Medium,B,Medium,205,204,210,619,B,Medium
+Agios Pharmaceuticals Inc,Biotechnology,A,High,BB,Medium,BB,Medium,520,303,325,1148,BBB,High
+Aeglea Bio Therapeutics Inc,Biotechnology,B,Medium,B,Medium,B,Medium,205,223,200,628,B,Medium
+AGNC Investment Corp,Real Estate,BB,Medium,B,Medium,BB,Medium,382,242,305,929,BBB,High
+AgriFORCE Growing Systems Ltd,Food Products,A,High,B,Medium,BB,Medium,510,248,305,1063,BBB,High
+Agile Therapeutics Inc,Pharmaceuticals,B,Medium,B,Medium,B,Medium,240,203,260,703,B,Medium
+Agilysys Inc,Technology,A,High,BB,Medium,BB,Medium,500,303,300,1103,BBB,High
+Applied Genetic Technologies Corp,Biotechnology,B,Medium,BB,Medium,BB,Medium,235,323,305,863,BB,Medium
+Adapthealth Corp,Health Care,B,Medium,B,Medium,B,Medium,210,211,235,656,B,Medium
+Allied Healthcare Products Inc,Health Care,B,Medium,B,Medium,BB,Medium,210,228,325,763,BB,Medium
+ADTRAN Inc,Communications,A,High,BB,Medium,BB,Medium,510,308,300,1118,BBB,High
+Advent Technologies Holdings Inc,Electrical Equipment,B,Medium,B,Medium,B,Medium,250,203,220,673,B,Medium
+Aikido Pharma Inc,Biotechnology,B,Medium,B,Medium,B,Medium,200,235,205,640,B,Medium
+Arteris Inc,Technology,A,High,B,Medium,BB,Medium,500,286,300,1086,BBB,High
+Akero Therapeutics Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,250,246,305,801,BB,Medium
+Air T Inc,Logistics and Transportation,B,Medium,B,Medium,BB,Medium,234,210,325,769,BB,Medium
+Altra Industrial Motion Corp,Machinery,A,High,BB,Medium,BB,Medium,525,315,305,1145,BBB,High
+Akebia Therapeutics Inc,Biotechnology,B,Medium,B,Medium,B,Medium,200,218,215,633,B,Medium
+Airgain Inc,Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,330,1130,BBB,High
+Airsculpt Technologies Inc,Health Care,B,Medium,B,Medium,B,Medium,210,201,205,616,B,Medium
+Akamai Technologies Inc,Technology,A,High,BB,Medium,BB,Medium,515,341,305,1161,BBB,High
+Akumin Inc,Health Care,BBB,High,BB,Medium,BB,Medium,455,347,300,1102,BBB,High
+Akouos Inc,Biotechnology,B,Medium,B,Medium,B,Medium,205,221,295,721,B,Medium
+Akoustis Technologies Inc,Electrical Equipment,B,Medium,BB,Medium,BBB,High,222,302,428,952,BBB,High
+Akari Therapeutics PLC,Pharmaceuticals,B,Medium,B,Medium,BB,Medium,225,216,305,746,B,Medium
+Albireo Pharma Inc,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,310,1110,BBB,High
+Akoya Biosciences Inc,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,512,303,215,1030,BBB,High
+Alico Inc,Food Products,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Aldeyra Therapeutics Inc,Biotechnology,B,Medium,B,Medium,B,Medium,231,261,235,727,B,Medium
+Alector Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,240,277,300,817,BB,Medium
+Allegro Microsystems Inc,Semiconductors,A,High,BB,Medium,B,Medium,542,314,250,1106,BBB,High
+Alfi Inc,Technology,B,Medium,B,Medium,BB,Medium,225,260,315,800,BB,Medium
+Align Technology Inc,Health Care,B,Medium,B,Medium,B,Medium,235,285,255,775,BB,Medium
+Aligos Therapeutics Inc,Biotechnology,B,Medium,B,Medium,B,Medium,210,222,235,667,B,Medium
+Alkermes Plc,Biotechnology,BBB,High,BB,Medium,BB,Medium,415,302,333,1050,BBB,High
+Alimera Sciences Inc,Pharmaceuticals,B,Medium,B,Medium,B,Medium,220,228,243,691,B,Medium
+Allegiant Travel Co,Airlines,B,Medium,B,Medium,B,Medium,287,208,248,743,B,Medium
+Aesthetic Medical International Holdings Group Ltd,Health Care,B,Medium,B,Medium,BB,Medium,220,250,300,770,BB,Medium
+Alkami Technology Inc,Technology,B,Medium,BB,Medium,B,Medium,280,305,260,845,BB,Medium
+Alnylam Pharmaceuticals Inc,Biotechnology,BB,Medium,BB,Medium,BB,Medium,331,346,325,1002,BBB,High
+Allot Ltd,Technology,A,High,BB,Medium,BB,Medium,508,324,310,1142,BBB,High
+Allogene Therapeutics Inc,Biotechnology,A,High,BB,Medium,BB,Medium,535,324,305,1164,BBB,High
+Applied Materials Inc,Semiconductors,A,High,BB,Medium,BB,Medium,525,317,300,1142,BBB,High
+Advanced Micro Devices Inc,Semiconductors,B,Medium,B,Medium,B,Medium,200,208,200,608,B,Medium
+Activision Blizzard Inc,Media,B,Medium,BB,Medium,BB,Medium,280,347,330,957,BBB,High
+Broadcom Inc,Semiconductors,B,Medium,B,Medium,B,Medium,210,212,200,622,B,Medium
+ANSYS Inc,Technology,A,High,BB,Medium,B,Medium,580,337,285,1202,A,High
+Amazon.com Inc,Retail,AA,Excellent,BB,Medium,BBB,High,668,305,460,1433,A,High
+Senmiao Technology Ltd,Financial Services,B,Medium,B,Medium,B,Medium,220,203,200,623,B,Medium
+APA Corp (US),Energy,A,High,BB,Medium,BB,Medium,510,316,325,1151,BBB,High
+Biogen Inc,Biotechnology,BB,Medium,BB,Medium,BB,Medium,380,303,364,1047,BBB,High
+Booking Holdings Inc,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,558,306,310,1174,BBB,High
+Cadence Design Systems Inc,Technology,A,High,BB,Medium,B,Medium,500,308,295,1103,BBB,High
+CDW Corp,Electrical Equipment,B,Medium,B,Medium,B,Medium,225,209,200,634,B,Medium
+CH Robinson Worldwide Inc,Logistics and Transportation,A,High,BB,Medium,BB,Medium,575,330,338,1243,A,High
+Cincinnati Financial Corp,Insurance,B,Medium,B,Medium,B,Medium,235,275,250,760,BB,Medium
+Charter Communications Inc,Media,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Comcast Corp,Media,A,High,BB,Medium,BB,Medium,507,343,315,1165,BBB,High
+Copart Inc,Commercial Services and Supplies,B,Medium,B,Medium,B,Medium,270,204,205,679,B,Medium
+Costco Wholesale Corp,Retail,A,High,BB,Medium,B,Medium,537,306,225,1068,BBB,High
+CSX Corp,Road and Rail,A,High,BB,Medium,BB,Medium,510,310,325,1145,BBB,High
+Cognizant Technology Solutions Corp,Technology,AA,Excellent,BB,Medium,BB,Medium,605,365,300,1270,A,High
+CME Group Inc,Financial Services,BB,Medium,B,Medium,B,Medium,375,237,200,812,BB,Medium
+Cisco Systems Inc,Communications,B,Medium,B,Medium,B,Medium,280,234,220,734,B,Medium
+Cintas Corp,Commercial Services and Supplies,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Citrix Systems Inc,Technology,A,High,BB,Medium,BB,Medium,530,305,305,1140,BBB,High
+Caesars Entertainment Inc,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,265,228,200,693,B,Medium
+DISH Network Corp,Media,B,Medium,B,Medium,B,Medium,210,263,205,678,B,Medium
+Dollar Tree Inc,Retail,B,Medium,B,Medium,B,Medium,235,208,215,658,B,Medium
+Dexcom Inc,Health Care,B,Medium,B,Medium,B,Medium,215,236,215,666,B,Medium
+Electronic Arts Inc,Media,BB,Medium,BB,Medium,B,Medium,360,300,225,885,BB,Medium
+Alliant Energy Corp,Utilities,A,High,BB,Medium,BB,Medium,519,307,300,1126,BBB,High
+Diamondback Energy Inc,Energy,A,High,B,Medium,BB,Medium,513,271,300,1084,BBB,High
+eBay Inc,Retail,A,High,BB,Medium,BB,Medium,500,302,305,1107,BBB,High
+LKQ Corp,Distributors,A,High,BB,Medium,BB,Medium,515,300,305,1120,BBB,High
+Alphabet Inc,Media,B,Medium,BB,Medium,BB,Medium,295,362,355,1012,BBB,High
+Marriott International Inc,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,215,200,215,630,B,Medium
+Microchip Technology Inc,Semiconductors,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Lam Research Corp,Semiconductors,A,High,BB,Medium,BB,Medium,510,325,315,1150,BBB,High
+Mondelez International Inc,Food Products,A,High,BB,Medium,BB,Medium,520,307,300,1127,BBB,High
+Meta Platforms Inc,Media,B,Medium,B,Medium,B,Medium,205,232,215,652,B,Medium
+Marketaxess Holdings Inc,Financial Services,B,Medium,B,Medium,B,Medium,230,213,210,653,B,Medium
+Monster Beverage Corp,Beverages,A,High,BB,Medium,BB,Medium,515,344,300,1159,BBB,High
+Moderna Inc,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Match Group Inc,Media,B,Medium,BB,Medium,BB,Medium,245,389,311,945,BBB,High
+Monolithic Power Systems Inc,Semiconductors,BB,Medium,B,Medium,B,Medium,330,287,235,852,BB,Medium
+Microsoft Corp,Technology,AA,Excellent,BBB,High,BB,Medium,715,443,375,1533,A,High
+Micron Technology Inc,Semiconductors,A,High,BB,Medium,BB,Medium,530,330,300,1160,BBB,High
+Nasdaq Inc,Financial Services,A,High,BB,Medium,BB,Medium,505,310,300,1115,BBB,High
+NortonLifeLock Inc,Technology,A,High,BB,Medium,BB,Medium,505,315,305,1125,BBB,High
+Northern Trust Corp,Financial Services,B,Medium,B,Medium,B,Medium,250,226,225,701,B,Medium
+Newell Brands Inc,Consumer products,A,High,BB,Medium,BB,Medium,525,303,315,1143,BBB,High
+NVIDIA Corp,Semiconductors,BB,Medium,BB,Medium,B,Medium,323,301,275,899,BB,Medium
+Allakos Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,200,273,300,773,BB,Medium
+News Corp,Media,A,High,BB,Medium,BB,Medium,509,300,300,1109,BBB,High
+Old Dominion Freight Line Inc,Road and Rail,BBB,High,BBB,High,B,Medium,467,423,280,1170,BBB,High
+Paccar Inc,Machinery,A,High,BB,Medium,BB,Medium,568,343,305,1216,A,High
+NXP Semiconductors NV,Semiconductors,A,High,BB,Medium,BB,Medium,505,329,305,1139,BBB,High
+O'Reilly Automotive Inc,Retail,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Paychex Inc,Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+Principal Financial Group Inc,Insurance,A,High,BB,Medium,BB,Medium,555,320,300,1175,BBB,High
+Ross Stores Inc,Retail,BB,Medium,BB,Medium,BB,Medium,375,325,300,1000,BBB,High
+SBA Communications Corp,Real Estate,B,Medium,B,Medium,B,Medium,250,251,215,716,B,Medium
+Qualcomm Inc,Semiconductors,BBB,High,BB,Medium,BB,Medium,409,300,300,1009,BBB,High
+Pool Corp,Distributors,A,High,BB,Medium,BB,Medium,525,306,313,1144,BBB,High
+PepsiCo Inc,Beverages,AA,Excellent,BB,Medium,BB,Medium,719,340,358,1417,A,High
+Starbucks Corp,Hotels Restaurants and Leisure,BBB,High,BB,Medium,B,Medium,475,385,295,1155,BBB,High
+Regency Centers Corp,Real Estate,A,High,BB,Medium,BB,Medium,575,372,365,1312,A,High
+Qorvo Inc,Semiconductors,A,High,BB,Medium,BB,Medium,535,310,305,1150,BBB,High
+PTC Inc,Technology,A,High,BB,Medium,BB,Medium,550,302,308,1160,BBB,High
+PENN Entertainment Inc,Hotels Restaurants and Leisure,BB,Medium,BB,Medium,B,Medium,371,300,220,891,BB,Medium
+PayPal Holdings Inc,Technology,BB,Medium,B,Medium,B,Medium,370,244,285,899,BB,Medium
+Regeneron Pharmaceuticals Inc,Biotechnology,A,High,BB,Medium,BB,Medium,505,327,305,1137,BBB,High
+Amgen Inc,Biotechnology,A,High,BB,Medium,BB,Medium,575,312,328,1215,A,High
+Synopsys Inc,Technology,A,High,BB,Medium,BB,Medium,525,316,315,1156,BBB,High
+Seagate Technology Holdings PLC,Technology,A,High,BB,Medium,BB,Medium,540,355,300,1195,BBB,High
+Bio-Techne Corp,Life Sciences Tools and Services,A,High,B,Medium,BB,Medium,510,268,300,1078,BBB,High
+Teradyne Inc,Semiconductors,A,High,BB,Medium,BB,Medium,507,328,315,1150,BBB,High
+Skyworks Solutions Inc,Semiconductors,A,High,BB,Medium,B,Medium,515,303,270,1088,BBB,High
+Trimble Inc,Electrical Equipment,A,High,BBB,High,BB,Medium,550,415,315,1280,A,High
+T Rowe Price Group Inc,Financial Services,A,High,BB,Medium,BB,Medium,510,325,310,1145,BBB,High
+Take-Two Interactive Software Inc,Media,B,Medium,BB,Medium,BB,Medium,225,307,310,842,BB,Medium
+Tesla Inc,Automobiles,A,High,CCC,Low,B,Medium,555,160,278,993,BBB,High
+Tractor Supply Co,Retail,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+Texas Instruments Inc,Semiconductors,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+T-Mobile US Inc,Telecommunication,BB,Medium,BB,Medium,B,Medium,342,331,230,903,BBB,High
+United Airlines Holdings Inc,Airlines,B,Medium,B,Medium,B,Medium,205,203,221,629,B,Medium
+Verisk Analytics Inc,Professional Services,AA,Excellent,BB,Medium,BB,Medium,615,366,300,1281,A,High
+Ulta Beauty Inc,Retail,B,Medium,B,Medium,B,Medium,205,242,200,647,B,Medium
+Vertex Pharmaceuticals Inc,Biotechnology,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Viatris Inc,Pharmaceuticals,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+Verisign Inc,Technology,A,High,BB,Medium,BB,Medium,548,354,325,1227,A,High
+Walgreens Boots Alliance Inc,Retail,A,High,BB,Medium,BB,Medium,515,325,300,1140,BBB,High
+NetApp Inc,Technology,A,High,BB,Medium,BB,Medium,545,359,325,1229,A,High
+Xcel Energy Inc,Utilities,B,Medium,B,Medium,B,Medium,223,201,205,629,B,Medium
+DENTSPLY SIRONA Inc,Health Care,A,High,BB,Medium,BB,Medium,530,318,305,1153,BBB,High
+Zebra Technologies Corp,Electrical Equipment,BB,Medium,BB,Medium,BB,Medium,320,317,300,937,BBB,High
+Advance Auto Parts Inc,Retail,B,Medium,B,Medium,B,Medium,264,261,210,735,B,Medium
+Zions Bancorporation NA,Banking,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+Wynn Resorts Ltd,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,225,201,200,626,B,Medium
+Agilent Technologies Inc,Life Sciences Tools and Services,A,High,B,Medium,B,Medium,573,231,233,1037,BBB,High
+Abbvie Inc,Biotechnology,A,High,BB,Medium,BB,Medium,505,317,300,1122,BBB,High
+Amerisourcebergen Corp,Health Care,A,High,BB,Medium,BB,Medium,505,300,315,1120,BBB,High
+Archer-Daniels-Midland Co,Food Products,A,High,BB,Medium,BB,Medium,587,353,305,1245,A,High
+Abbott Laboratories,Health Care,A,High,BB,Medium,BB,Medium,515,305,305,1125,BBB,High
+Ameren Corp,Utilities,A,High,BB,Medium,BB,Medium,562,345,300,1207,A,High
+AES Corp,Utilities,A,High,BB,Medium,BB,Medium,525,326,370,1221,A,High
+Aflac Inc,Insurance,BBB,High,BB,Medium,B,Medium,454,300,235,989,BBB,High
+Accenture PLC,Technology,A,High,BB,Medium,BB,Medium,515,360,305,1180,BBB,High
+Arthur J. Gallagher & Co.,Insurance,A,High,BB,Medium,BB,Medium,530,344,310,1184,BBB,High
+Assurant Inc,Insurance,BBB,High,BB,Medium,BB,Medium,438,316,300,1054,BBB,High
+Alaska Air Group Inc,Airlines,A,High,BB,Medium,B,Medium,515,303,259,1077,BBB,High
+Albemarle Corp,Chemicals,A,High,BB,Medium,BB,Medium,545,322,315,1182,BBB,High
+American International Group Inc,Insurance,A,High,BB,Medium,BB,Medium,518,323,310,1151,BBB,High
+Allstate Corp,Insurance,A,High,BB,Medium,B,Medium,530,300,220,1050,BBB,High
+Allegion PLC,Building,A,High,BB,Medium,BB,Medium,542,322,315,1179,BBB,High
+Ameriprise Financial Inc,Financial Services,BB,Medium,BB,Medium,B,Medium,396,308,267,971,BBB,High
+AMETEK Inc,Electrical Equipment,A,High,BB,Medium,B,Medium,540,329,270,1139,BBB,High
+American Tower Corp,Real Estate,A,High,BB,Medium,BB,Medium,530,333,305,1168,BBB,High
+A O Smith Corp,Building,A,High,BB,Medium,BB,Medium,510,315,310,1135,BBB,High
+Air Products and Chemicals Inc,Chemicals,AA,Excellent,BBB,High,BB,Medium,700,442,300,1442,A,High
+Aon PLC,Insurance,BBB,High,BB,Medium,B,Medium,485,304,288,1077,BBB,High
+Arista Networks Inc,Communications,BBB,High,BB,Medium,B,Medium,444,310,295,1049,BBB,High
+Amphenol Corp,Electrical Equipment,A,High,BB,Medium,BBB,High,512,303,475,1290,A,High
+Atmos Energy Corp,Utilities,A,High,BB,Medium,BB,Medium,572,368,315,1255,A,High
+American Water Works Company Inc,Utilities,AA,Excellent,BB,Medium,BB,Medium,653,395,300,1348,A,High
+Alexandria Real Estate Equities Inc,Real Estate,AA,Excellent,BB,Medium,BB,Medium,600,337,345,1282,A,High
+Aptiv PLC,Auto Components,A,High,BB,Medium,BB,Medium,555,339,310,1204,A,High
+Avalonbay Communities Inc,Real Estate,A,High,BB,Medium,B,Medium,500,300,298,1098,BBB,High
+Avery Dennison Corp,Packaging,A,High,BB,Medium,BB,Medium,535,347,325,1207,A,High
+Boeing Co,Aerospace and Defense,B,Medium,B,Medium,B,Medium,220,224,235,679,B,Medium
+Bank of America Corp,Banking,B,Medium,BB,Medium,B,Medium,220,394,265,879,BB,Medium
+Baxter International Inc,Health Care,A,High,BB,Medium,BB,Medium,500,316,300,1116,BBB,High
+Bath & Body Works Inc,Retail,A,High,BB,Medium,BB,Medium,525,303,300,1128,BBB,High
+Becton Dickinson and Co,Health Care,AA,Excellent,BB,Medium,BB,Medium,607,384,315,1306,A,High
+Bio Rad Laboratories Inc,Life Sciences Tools and Services,B,Medium,B,Medium,BB,Medium,275,227,300,802,BB,Medium
+Best Buy Co Inc,Retail,BBB,High,B,Medium,BB,Medium,430,231,300,961,BBB,High
+Bank of New York Mellon Corp,Financial Services,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+American Express Co,Financial Services,B,Medium,B,Medium,B,Medium,230,226,208,664,B,Medium
+Broadridge Financial Solutions Inc,Technology,A,High,BB,Medium,BB,Medium,550,313,325,1188,BBB,High
+Bristol-Myers Squibb Co,Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,321,310,1131,BBB,High
+Brown & Brown Inc,Insurance,BBB,High,BB,Medium,BB,Medium,405,320,300,1025,BBB,High
+Autozone Inc,Retail,B,Medium,B,Medium,B,Medium,260,222,213,695,B,Medium
+Boston Scientific Corp,Health Care,A,High,BB,Medium,BB,Medium,525,399,300,1224,A,High
+Blackstone Inc,Financial Services,A,High,BB,Medium,BB,Medium,534,343,320,1197,BBB,High
+Boston Properties Inc,Real Estate,A,High,BB,Medium,BB,Medium,532,339,305,1176,BBB,High
+SVB Financial Group,Banking,A,High,BB,Medium,BB,Medium,510,340,300,1150,BBB,High
+Citigroup Inc,Banking,A,High,BB,Medium,BB,Medium,515,300,303,1118,BBB,High
+Caterpillar Inc,Machinery,B,Medium,B,Medium,B,Medium,235,239,235,709,B,Medium
+Carrier Global Corp,Building,B,Medium,B,Medium,B,Medium,210,258,226,694,B,Medium
+CBRE Group Inc,Real Estate,B,Medium,B,Medium,B,Medium,200,209,200,609,B,Medium
+Crown Castle Inc,Real Estate,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+Ceridian HCM Holding Inc,Technology,A,High,BB,Medium,BB,Medium,530,379,320,1229,A,High
+Comerica Inc,Banking,B,Medium,BB,Medium,B,Medium,280,300,230,810,BB,Medium
+D R Horton Inc,Consumer products,B,Medium,B,Medium,B,Medium,250,271,205,726,B,Medium
+Dover Corp,Machinery,A,High,BB,Medium,BB,Medium,500,320,305,1125,BBB,High
+Darden Restaurants Inc,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,515,309,300,1124,BBB,High
+Celanese Corp,Chemicals,A,High,BB,Medium,BB,Medium,500,319,300,1119,BBB,High
+Dollar General Corp,Retail,B,Medium,B,Medium,B,Medium,247,222,200,669,B,Medium
+Chipotle Mexican Grill Inc,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,210,241,213,664,B,Medium
+Quest Diagnostics Inc,Health Care,B,Medium,BB,Medium,B,Medium,230,300,205,735,B,Medium
+Carnival Corp,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,515,326,320,1161,BBB,High
+Church & Dwight Co Inc,Consumer products,A,High,BB,Medium,BB,Medium,578,341,348,1267,A,High
+Dow Inc,Chemicals,B,Medium,B,Medium,B,Medium,225,201,200,626,B,Medium
+Discover Financial Services,Financial Services,BB,Medium,BB,Medium,BB,Medium,335,321,313,969,BBB,High
+Duke Energy Corp,Utilities,AA,Excellent,BB,Medium,BB,Medium,604,362,328,1294,A,High
+Duke Realty Corp,Real Estate,A,High,BB,Medium,BB,Medium,540,313,300,1153,BBB,High
+CF Industries Holdings Inc,Chemicals,A,High,BB,Medium,BB,Medium,525,307,310,1142,BBB,High
+Devon Energy Corp,Energy,A,High,BB,Medium,BB,Medium,570,301,300,1171,BBB,High
+Ecolab Inc,Chemicals,A,High,BB,Medium,BB,Medium,547,373,325,1245,A,High
+Home Depot Inc,Retail,B,Medium,BB,Medium,B,Medium,230,317,205,752,BB,Medium
+DTE Energy Co,Utilities,A,High,BB,Medium,B,Medium,592,313,210,1115,BBB,High
+Edison International,Utilities,AA,Excellent,A,High,BB,Medium,700,513,315,1528,A,High
+Corning Inc,Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+DaVita Inc,Health Care,B,Medium,BB,Medium,BB,Medium,260,332,300,892,BB,Medium
+Western Digital Corp,Technology,A,High,BB,Medium,B,Medium,545,339,260,1144,BBB,High
+Goldman Sachs Group Inc,Financial Services,A,High,BB,Medium,BB,Medium,525,305,305,1135,BBB,High
+DXC Technology Co,Technology,A,High,BB,Medium,BB,Medium,505,326,305,1136,BBB,High
+Eaton Corporation PLC,Electrical Equipment,A,High,BB,Medium,BB,Medium,520,328,320,1168,BBB,High
+Consolidated Edison Inc,Utilities,AA,Excellent,BB,Medium,BB,Medium,700,358,300,1358,A,High
+Hershey Co,Food Products,A,High,BB,Medium,BB,Medium,525,361,300,1186,BBB,High
+Johnson & Johnson,Pharmaceuticals,A,High,BB,Medium,BB,Medium,565,308,300,1173,BBB,High
+JPMorgan Chase & Co,Banking,A,High,BB,Medium,BB,Medium,505,319,338,1162,BBB,High
+Coca-Cola Co,Beverages,B,Medium,B,Medium,B,Medium,200,201,200,601,B,Medium
+Carmax Inc,Retail,B,Medium,B,Medium,BB,Medium,251,237,300,788,BB,Medium
+Leidos Holdings Inc,Professional Services,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Leggett & Platt Inc,Consumer products,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+McDonald's Corp,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,505,326,305,1136,BBB,High
+Linde PLC,Chemicals,B,Medium,B,Medium,B,Medium,210,240,275,725,B,Medium
+Lumen Technologies Inc,Telecommunication,A,High,BB,Medium,BB,Medium,535,327,305,1167,BBB,High
+LyondellBasell Industries NV,Chemicals,A,High,BB,Medium,BB,Medium,587,352,330,1269,A,High
+Moody's Corp,Financial Services,A,High,BB,Medium,B,Medium,515,308,235,1058,BBB,High
+Mckesson Corp,Health Care,A,High,BB,Medium,BB,Medium,500,303,310,1113,BBB,High
+Masco Corp,Building,A,High,BB,Medium,BB,Medium,522,323,305,1150,BBB,High
+Lowe's Companies Inc,Retail,B,Medium,B,Medium,B,Medium,218,200,200,618,B,Medium
+Medtronic PLC,Health Care,A,High,BB,Medium,BB,Medium,515,308,315,1138,BBB,High
+McCormick & Company Inc,Food Products,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+MetLife Inc,Insurance,A,High,BB,Medium,BB,Medium,517,305,305,1127,BBB,High
+MGM Resorts International,Hotels Restaurants and Leisure,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+Marsh & McLennan Companies Inc,Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Altria Group Inc,Tobacco,A,High,BB,Medium,BB,Medium,500,327,341,1168,BBB,High
+Borgwarner Inc,Auto Components,B,Medium,B,Medium,B,Medium,260,206,230,696,B,Medium
+Merck & Co Inc,Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,305,315,1120,BBB,High
+Marathon Oil Corp,Energy,A,High,BB,Medium,BB,Medium,530,313,305,1148,BBB,High
+Marathon Petroleum Corp,Energy,AA,Excellent,BB,Medium,BB,Medium,700,366,315,1381,A,High
+Morgan Stanley,Financial Services,A,High,BB,Medium,BB,Medium,555,303,320,1178,BBB,High
+M&T Bank Corp,Banking,A,High,BB,Medium,B,Medium,500,303,260,1063,BBB,High
+Mettler-Toledo International Inc,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,505,300,240,1045,BBB,High
+Motorola Solutions Inc,Communications,A,High,BB,Medium,BB,Medium,505,305,347,1157,BBB,High
+Nextera Energy Inc,Utilities,AA,Excellent,BB,Medium,BB,Medium,668,306,313,1287,A,High
+MSCI Inc,Financial Services,A,High,BB,Medium,BB,Medium,580,347,335,1262,A,High
+Norwegian Cruise Line Holdings Ltd,Hotels Restaurants and Leisure,BBB,High,BB,Medium,BB,Medium,495,306,300,1101,BBB,High
+NiSource Inc,Utilities,BB,Medium,BB,Medium,B,Medium,361,322,223,906,BBB,High
+Northrop Grumman Corp,Aerospace and Defense,A,High,BB,Medium,BB,Medium,505,302,300,1107,BBB,High
+ServiceNow Inc,Technology,A,High,BB,Medium,BB,Medium,550,374,350,1274,A,High
+Nucor Corp,Metals and Mining,BB,Medium,BB,Medium,B,Medium,374,340,225,939,BBB,High
+Nielsen Holdings PLC,Professional Services,A,High,BB,Medium,BB,Medium,500,310,300,1110,BBB,High
+Norfolk Southern Corp,Road and Rail,BB,Medium,BB,Medium,BB,Medium,358,339,330,1027,BBB,High
+NVR Inc,Consumer products,B,Medium,B,Medium,B,Medium,265,206,205,676,B,Medium
+Progressive Corp,Insurance,BB,Medium,BB,Medium,B,Medium,350,355,270,975,BBB,High
+Pfizer Inc,Pharmaceuticals,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Pultegroup Inc,Consumer products,B,Medium,B,Medium,B,Medium,215,203,240,658,B,Medium
+Parker-Hannifin Corp,Machinery,BB,Medium,BB,Medium,B,Medium,325,303,225,853,BB,Medium
+PerkinElmer Inc,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,515,316,325,1156,BBB,High
+Prologis Inc,Real Estate,A,High,BB,Medium,BB,Medium,579,374,315,1268,A,High
+PPG Industries Inc,Chemicals,B,Medium,B,Medium,B,Medium,293,236,220,749,B,Medium
+Public Storage,Real Estate,B,Medium,B,Medium,B,Medium,235,245,205,685,B,Medium
+PNC Financial Services Group Inc,Banking,BBB,High,BB,Medium,BB,Medium,455,323,300,1078,BBB,High
+Philip Morris International Inc,Tobacco,A,High,BB,Medium,BB,Medium,520,327,315,1162,BBB,High
+Packaging Corp of America,Packaging,A,High,BB,Medium,BB,Medium,500,303,300,1103,BBB,High
+Phillips 66,Energy,A,High,BB,Medium,BB,Medium,569,363,310,1242,A,High
+Prudential Financial Inc,Insurance,B,Medium,BB,Medium,B,Medium,285,300,288,873,BB,Medium
+Pentair PLC,Machinery,BBB,High,BB,Medium,BB,Medium,433,330,315,1078,BBB,High
+Pinnacle West Capital Corp,Utilities,AA,Excellent,BBB,High,BB,Medium,629,479,300,1408,A,High
+PPL Corp,Utilities,A,High,BB,Medium,BB,Medium,525,306,300,1131,BBB,High
+Quanta Services Inc,Construction,A,High,BB,Medium,BB,Medium,540,382,310,1232,A,High
+Raymond James Financial Inc,Financial Services,A,High,BB,Medium,BB,Medium,505,309,305,1119,BBB,High
+Regions Financial Corp,Banking,BBB,High,BB,Medium,BB,Medium,490,304,305,1099,BBB,High
+Royal Caribbean Cruises Ltd,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,503,327,310,1140,BBB,High
+Ralph Lauren Corp,Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,420,352,303,1075,BBB,High
+PVH Corp,Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,418,319,315,1052,BBB,High
+Robert Half International Inc,Professional Services,B,Medium,BB,Medium,BB,Medium,255,334,310,899,BB,Medium
+Pioneer Natural Resources Co,Energy,AA,Excellent,BBB,High,BB,Medium,700,412,300,1412,A,High
+Rollins Inc,Commercial Services and Supplies,A,High,BB,Medium,BB,Medium,500,300,305,1105,BBB,High
+Resmed Inc,Health Care,BB,Medium,BB,Medium,BB,Medium,330,312,300,942,BBB,High
+Charles Schwab Corp,Financial Services,A,High,BB,Medium,BB,Medium,515,300,300,1115,BBB,High
+Rockwell Automation Inc,Electrical Equipment,BB,Medium,B,Medium,B,Medium,308,243,210,761,BB,Medium
+TransDigm Group Inc,Aerospace and Defense,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Sealed Air Corp,Packaging,A,High,BB,Medium,B,Medium,555,318,257,1130,BBB,High
+Roper Technologies Inc,Technology,A,High,BB,Medium,BB,Medium,570,350,340,1260,A,High
+Stanley Black & Decker Inc,Machinery,A,High,BB,Medium,BB,Medium,555,315,300,1170,BBB,High
+Constellation Brands Inc,Beverages,BBB,High,BB,Medium,B,Medium,459,313,295,1067,BBB,High
+Stryker Corp,Health Care,BBB,High,BB,Medium,BB,Medium,485,321,325,1131,BBB,High
+Sysco Corp,Retail,A,High,BB,Medium,BB,Medium,555,301,305,1161,BBB,High
+Sherwin-Williams Co,Chemicals,B,Medium,B,Medium,B,Medium,295,259,220,774,BB,Medium
+S&P Global Inc,Financial Services,BBB,High,BB,Medium,BB,Medium,435,341,310,1086,BBB,High
+STERIS plc,Health Care,A,High,BB,Medium,BB,Medium,510,301,305,1116,BBB,High
+Synchrony Financial,Financial Services,BB,Medium,BB,Medium,BB,Medium,325,312,310,947,BBB,High
+Simon Property Group Inc,Real Estate,B,Medium,B,Medium,B,Medium,225,247,205,677,B,Medium
+Sempra Energy,Utilities,AA,Excellent,BB,Medium,BB,Medium,700,386,310,1396,A,High
+Southern Co,Utilities,A,High,BB,Medium,BB,Medium,515,307,330,1152,BBB,High
+State Street Corp,Financial Services,B,Medium,B,Medium,B,Medium,225,211,210,646,B,Medium
+Snap-On Inc,Machinery,A,High,BB,Medium,B,Medium,500,300,261,1061,BBB,High
+Raytheon Technologies Corp,Aerospace and Defense,A,High,BB,Medium,BBB,High,520,330,400,1250,A,High
+Hartford Financial Services Group Inc,Insurance,A,High,BB,Medium,BB,Medium,500,305,305,1110,BBB,High
+TE Connectivity Ltd,Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+Teleflex Inc,Health Care,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+Truist Financial Corp,Banking,BBB,High,BB,Medium,BB,Medium,480,308,300,1088,BBB,High
+Teledyne Technologies Inc,Electrical Equipment,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Target Corp,Retail,A,High,BB,Medium,BB,Medium,550,342,313,1205,A,High
+TJX Companies Inc,Retail,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Tapestry Inc,Textiles Apparel and Luxury Goods,BBB,High,BB,Medium,BB,Medium,483,310,300,1093,BBB,High
+Travelers Companies Inc,Insurance,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Thermo Fisher Scientific Inc,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,527,332,280,1139,BBB,High
+Trane Technologies PLC,Building,AA,Excellent,BB,Medium,BB,Medium,700,389,320,1409,A,High
+Tyson Foods Inc,Food Products,A,High,BB,Medium,BB,Medium,530,374,340,1244,A,High
+Tyler Technologies Inc,Technology,BBB,High,BB,Medium,BB,Medium,400,306,305,1011,BBB,High
+Textron Inc,Aerospace and Defense,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+UnitedHealth Group Inc,Health Care,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+United Parcel Service Inc,Logistics and Transportation,A,High,BB,Medium,B,Medium,540,374,245,1159,BBB,High
+UDR Inc,Real Estate,B,Medium,BB,Medium,B,Medium,225,301,215,741,B,Medium
+Universal Health Services Inc,Health Care,A,High,BB,Medium,BB,Medium,560,320,338,1218,A,High
+Mosaic Co,Chemicals,A,High,BB,Medium,BB,Medium,515,379,315,1209,A,High
+US Bancorp,Banking,BB,Medium,BB,Medium,BB,Medium,336,317,300,953,BBB,High
+United Rentals Inc,Trading Companies and Distributors,BBB,High,BB,Medium,BB,Medium,472,318,300,1090,BBB,High
+Vornado Realty Trust,Real Estate,A,High,BB,Medium,BB,Medium,540,326,325,1191,BBB,High
+Valero Energy Corp,Energy,AA,Excellent,BB,Medium,BB,Medium,608,307,330,1245,A,High
+VF Corp,Textiles Apparel and Luxury Goods,A,High,BB,Medium,BB,Medium,505,301,300,1106,BBB,High
+Visa Inc,Technology,A,High,BB,Medium,BB,Medium,504,368,310,1182,BBB,High
+Ventas Inc,Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Vulcan Materials Co,Construction,A,High,BB,Medium,BB,Medium,570,319,300,1189,BBB,High
+WEC Energy Group Inc,Utilities,AA,Excellent,BBB,High,BB,Medium,635,438,300,1373,A,High
+Welltower OP LLC,Real Estate,BBB,High,BB,Medium,BB,Medium,437,326,300,1063,BBB,High
+Waters Corp,Life Sciences Tools and Services,B,Medium,B,Medium,B,Medium,270,292,235,797,BB,Medium
+Waste Management Inc,Commercial Services and Supplies,AA,Excellent,BBB,High,B,Medium,613,408,285,1306,A,High
+Westinghouse Air Brake Technologies Corp,Machinery,AA,Excellent,BB,Medium,BB,Medium,607,311,320,1238,A,High
+Williams Companies Inc,Energy,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Wells Fargo & Co,Banking,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Whirlpool Corp,Consumer products,A,High,BB,Medium,BB,Medium,500,301,300,1101,BBB,High
+West Pharmaceutical Services Inc,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,540,330,305,1175,BBB,High
+W R Berkley Corp,Insurance,BB,Medium,B,Medium,BB,Medium,360,294,300,954,BBB,High
+Walmart Inc,Retail,BB,Medium,B,Medium,B,Medium,310,281,220,811,BB,Medium
+Western Union Co,Technology,B,Medium,B,Medium,B,Medium,205,205,228,638,B,Medium
+Yum! Brands Inc,Hotels Restaurants and Leisure,A,High,BB,Medium,BB,Medium,500,320,310,1130,BBB,High
+Xylem Inc,Machinery,BB,Medium,B,Medium,B,Medium,374,254,210,838,BB,Medium
+Weyerhaeuser Co,Real Estate,AA,Excellent,BB,Medium,BB,Medium,700,340,300,1340,A,High
+Westrock Co,Packaging,A,High,BB,Medium,BB,Medium,555,324,305,1184,BBB,High
+Exxon Mobil Corp,Energy,A,High,BB,Medium,BB,Medium,538,322,313,1173,BBB,High
+Zimmer Biomet Holdings Inc,Health Care,A,High,BB,Medium,BB,Medium,520,330,310,1160,BBB,High
+Zoetis Inc,Pharmaceuticals,A,High,BB,Medium,BB,Medium,520,348,310,1178,BBB,High
+Deere & Co,Machinery,A,High,BB,Medium,BB,Medium,560,339,305,1204,A,High
+Dupont De Nemours Inc,Chemicals,A,High,BB,Medium,B,Medium,550,341,295,1186,BBB,High
+Dominion Energy Inc,Utilities,A,High,BB,Medium,BB,Medium,535,325,310,1170,BBB,High
+CVS Health Corp,Health Care,A,High,BB,Medium,BB,Medium,540,302,315,1157,BBB,High
+Delta Air Lines Inc,Airlines,A,High,BB,Medium,BB,Medium,515,300,313,1128,BBB,High
+Salesforce Inc,Technology,B,Medium,B,Medium,B,Medium,215,241,200,656,B,Medium
+Chevron Corp,Energy,B,Medium,B,Medium,B,Medium,210,217,210,637,B,Medium
+Corteva Inc,Chemicals,AA,Excellent,BB,Medium,BB,Medium,610,312,320,1242,A,High
+Coterra Energy Inc,Energy,A,High,BB,Medium,BB,Medium,555,329,310,1194,BBB,High
+Catalent Inc,Pharmaceuticals,BBB,High,BB,Medium,BB,Medium,483,303,305,1091,BBB,High
+Campbell Soup Co,Food Products,A,High,BB,Medium,BB,Medium,515,301,305,1121,BBB,High
+Charles River Laboratories International Inc,Life Sciences Tools and Services,A,High,BB,Medium,B,Medium,510,322,235,1067,BBB,High
+Conocophillips,Energy,AA,Excellent,A,High,BB,Medium,687,544,305,1536,A,High
+Cooper Companies Inc,Health Care,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Capital One Financial Corp,Financial Services,A,High,BB,Medium,BB,Medium,508,309,320,1137,BBB,High
+Centene Corp,Health Care,A,High,BB,Medium,BB,Medium,548,355,315,1218,A,High
+CenterPoint Energy Inc,Utilities,A,High,BB,Medium,B,Medium,550,320,260,1130,BBB,High
+CMS Energy Corp,Utilities,BBB,High,AA,Excellent,C,Low,450,667,75,1192,BBB,High
+Cummins Inc,Machinery,A,High,BB,Medium,BB,Medium,510,320,300,1130,BBB,High
+Colgate-Palmolive Co,Consumer products,A,High,BB,Medium,BB,Medium,520,310,310,1140,BBB,High
+3M Co,Industrial Conglomerates,A,High,BB,Medium,BB,Medium,526,310,305,1141,BBB,High
+Citizens Financial Group Inc,Banking,B,Medium,B,Medium,B,Medium,230,215,205,650,B,Medium
+Conagra Brands Inc,Food Products,A,High,BB,Medium,BB,Medium,525,306,300,1131,BBB,High
+Cigna Corp,Health Care,A,High,BB,Medium,BB,Medium,508,328,310,1146,BBB,High
+Cardinal Health Inc,Health Care,A,High,BB,Medium,BB,Medium,505,300,315,1120,BBB,High
+Mastercard Inc,Technology,B,Medium,B,Medium,B,Medium,210,230,215,655,B,Medium
+Lamb Weston Holdings Inc,Food Products,BB,Medium,B,Medium,BB,Medium,345,256,300,901,BBB,High
+Mid-America Apartment Communities Inc,Real Estate,BB,Medium,B,Medium,B,Medium,315,261,210,786,BB,Medium
+Martin Marietta Materials Inc,Construction,A,High,BB,Medium,BB,Medium,573,313,300,1186,BBB,High
+Southwest Airlines Co,Airlines,B,Medium,BB,Medium,B,Medium,295,314,218,827,BB,Medium
+Lincoln National Corp,Insurance,AA,Excellent,BB,Medium,BB,Medium,700,300,300,1300,A,High
+Lennar Corp,Consumer products,BB,Medium,BB,Medium,B,Medium,363,344,220,927,BBB,High
+Procter & Gamble Co,Consumer products,A,High,BBB,High,BB,Medium,560,422,310,1292,A,High
+Organon & Co,Pharmaceuticals,A,High,BB,Medium,BB,Medium,515,335,305,1155,BBB,High
+Occidental Petroleum Corp,Energy,A,High,BB,Medium,BB,Medium,505,302,300,1107,BBB,High
+Dell Technologies Inc,Technology,A,High,BB,Medium,B,Medium,500,318,275,1093,BBB,High
+Paycom Software Inc,Technology,BBB,High,BB,Medium,BB,Medium,470,305,315,1090,BBB,High
+Public Service Enterprise Group Inc,Utilities,A,High,BB,Medium,B,Medium,500,300,205,1005,BBB,High
+ONEOK Inc,Energy,A,High,BB,Medium,BB,Medium,581,326,355,1262,A,High
+NRG Energy Inc,Utilities,BB,Medium,BB,Medium,B,Medium,371,327,218,916,BBB,High
+Loews Corp,Insurance,A,High,BB,Medium,BB,Medium,505,303,313,1121,BBB,High
+Omnicom Group Inc,Media,A,High,BB,Medium,BB,Medium,543,333,305,1181,BBB,High
+Oracle Corp,Technology,A,High,BB,Medium,B,Medium,500,300,200,1000,BBB,High
+Realty Income Corp,Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Domino's Pizza Inc,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,205,205,200,610,B,Medium
+AT&T Inc,Telecommunication,B,Medium,B,Medium,BB,Medium,210,200,305,715,B,Medium
+Union Pacific Corp,Road and Rail,B,Medium,B,Medium,B,Medium,290,257,245,792,BB,Medium
+Newmont Corporation,Metals and Mining,AA,Excellent,BB,Medium,BB,Medium,675,389,355,1419,A,High
+FedEx Corp,Logistics and Transportation,BB,Medium,B,Medium,B,Medium,335,278,255,868,BB,Medium
+Nike Inc,Textiles Apparel and Luxury Goods,B,Medium,B,Medium,B,Medium,205,275,200,680,B,Medium
+Ford Motor Co,Automobiles,B,Medium,B,Medium,B,Medium,292,246,215,753,BB,Medium
+Lockheed Martin Corp,Aerospace and Defense,A,High,BB,Medium,BB,Medium,510,324,320,1154,BBB,High
+Republic Services Inc,Commercial Services and Supplies,B,Medium,B,Medium,B,Medium,293,235,216,744,B,Medium
+Enphase Energy Inc,Semiconductors,A,High,BB,Medium,BB,Medium,565,316,300,1181,BBB,High
+Exelon Corp,Utilities,AA,Excellent,BBB,High,BB,Medium,694,403,316,1413,A,High
+Expeditors International of Washington Inc,Logistics and Transportation,A,High,BB,Medium,BB,Medium,510,302,300,1112,BBB,High
+Expedia Group Inc,Hotels Restaurants and Leisure,B,Medium,B,Medium,BB,Medium,225,242,305,772,BB,Medium
+Fastenal Co,Trading Companies and Distributors,B,Medium,BB,Medium,B,Medium,230,302,200,732,B,Medium
+F5 Inc,Communications,B,Medium,B,Medium,B,Medium,200,221,215,636,B,Medium
+Fiserv Inc,Technology,BB,Medium,BB,Medium,BB,Medium,395,302,310,1007,BBB,High
+Equinix Inc,Real Estate,A,High,BB,Medium,BB,Medium,515,323,315,1153,BBB,High
+Fortinet Inc,Technology,A,High,BB,Medium,BB,Medium,500,306,305,1111,BBB,High
+ETSY Inc,Retail,B,Medium,B,Medium,B,Medium,235,241,235,711,B,Medium
+Franklin Resources Inc,Financial Services,BB,Medium,BB,Medium,BB,Medium,321,349,310,980,BBB,High
+Digital Realty Trust Inc,Real Estate,A,High,BB,Medium,BB,Medium,540,317,300,1157,BBB,High
+Danaher Corp,Life Sciences Tools and Services,A,High,BB,Medium,BB,Medium,530,344,385,1259,A,High
+Equifax Inc,Professional Services,BB,Medium,BB,Medium,BB,Medium,390,300,305,995,BBB,High
+Estee Lauder Companies Inc,Consumer products,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Eastman Chemical Co,Chemicals,A,High,BB,Medium,BB,Medium,583,365,310,1258,A,High
+Emerson Electric Co,Electrical Equipment,AA,Excellent,BB,Medium,BB,Medium,605,323,315,1243,A,High
+EOG Resources Inc,Energy,A,High,B,Medium,B,Medium,550,252,240,1042,BBB,High
+Equity Residential,Real Estate,B,Medium,B,Medium,B,Medium,235,208,210,653,B,Medium
+Eversource Energy,Utilities,A,High,BBB,High,BB,Medium,576,409,310,1295,A,High
+Essex Property Trust Inc,Real Estate,BB,Medium,BB,Medium,B,Medium,377,304,210,891,BB,Medium
+Fifth Third Bancorp,Banking,BB,Medium,BB,Medium,B,Medium,313,300,215,828,BB,Medium
+Entergy Corp,Utilities,AA,Excellent,BB,Medium,BB,Medium,653,380,310,1343,A,High
+Extra Space Storage Inc,Real Estate,A,High,B,Medium,B,Medium,572,289,225,1086,BBB,High
+Edwards Lifesciences Corp,Health Care,B,Medium,BB,Medium,BB,Medium,290,333,305,928,BBB,High
+Fox Corp,Media,B,Medium,BB,Medium,BB,Medium,295,330,315,940,BBB,High
+Freeport-McMoRan Inc,Metals and Mining,AA,Excellent,BB,Medium,BB,Medium,608,313,305,1226,A,High
+FirstEnergy Corp,Utilities,A,High,BB,Medium,BB,Medium,510,304,300,1114,BBB,High
+Fleetcor Technologies Inc,Technology,BBB,High,BB,Medium,BB,Medium,410,302,300,1012,BBB,High
+Fidelity National Information Services Inc,Technology,A,High,B,Medium,BB,Medium,530,298,310,1138,BBB,High
+First Republic Bank,Banking,BB,Medium,BB,Medium,B,Medium,370,331,288,989,BBB,High
+FMC Corp,Chemicals,A,High,BB,Medium,BB,Medium,510,307,315,1132,BBB,High
+Federal Realty Investment Trust,Real Estate,A,High,BB,Medium,BB,Medium,525,302,300,1127,BBB,High
+Fortive Corp,Machinery,A,High,BB,Medium,BB,Medium,540,326,305,1171,BBB,High
+Gap Inc,Retail,A,High,BB,Medium,BB,Medium,515,349,300,1164,BBB,High
+Garmin Ltd,Consumer products,B,Medium,B,Medium,B,Medium,205,242,200,647,B,Medium
+Gartner Inc,Technology,A,High,BB,Medium,BB,Medium,500,316,315,1131,BBB,High
+Eli Lilly and Co,Pharmaceuticals,A,High,BB,Medium,BB,Medium,510,360,310,1180,BBB,High
+Everest Re Group Ltd,Insurance,A,High,B,Medium,BB,Medium,505,276,305,1086,BBB,High
+Evergy Inc,Utilities,A,High,BB,Medium,BB,Medium,555,310,300,1165,BBB,High
+Fortune Brands Home & Security Inc,Building,A,High,BB,Medium,BB,Medium,510,302,300,1112,BBB,High
+Gilead Sciences Inc,Biotechnology,A,High,BB,Medium,BB,Medium,500,303,300,1103,BBB,High
+Hologic Inc,Health Care,A,High,BB,Medium,BB,Medium,515,324,315,1154,BBB,High
+Henry Schein Inc,Health Care,B,Medium,B,Medium,B,Medium,210,205,200,615,B,Medium
+Honeywell International Inc,Industrial Conglomerates,A,High,BB,Medium,BB,Medium,545,344,308,1197,BBB,High
+Host Hotels & Resorts Inc,Real Estate,A,High,BB,Medium,BB,Medium,510,318,318,1146,BBB,High
+General Dynamics Corp,Aerospace and Defense,A,High,BB,Medium,BB,Medium,510,310,300,1120,BBB,High
+Hasbro Inc,Leisure Products,B,Medium,BB,Medium,BB,Medium,255,301,300,856,BB,Medium
+Huntington Bancshares Inc,Banking,BB,Medium,BB,Medium,BB,Medium,308,300,300,908,BBB,High
+Globe Life Inc,Insurance,B,Medium,B,Medium,B,Medium,215,238,215,668,B,Medium
+Genuine Parts Co,Distributors,A,High,B,Medium,BB,Medium,535,225,305,1065,BBB,High
+Generac Holdings Inc,Electrical Equipment,A,High,BB,Medium,B,Medium,535,311,250,1096,BBB,High
+Global Payments Inc,Technology,BB,Medium,BB,Medium,B,Medium,310,343,265,918,BBB,High
+HCA Healthcare Inc,Health Care,A,High,BB,Medium,BB,Medium,520,348,305,1173,BBB,High
+HanesBrands Inc,Textiles Apparel and Luxury Goods,BB,Medium,B,Medium,BB,Medium,310,223,305,838,BB,Medium
+Huntington Ingalls Industries Inc,Aerospace and Defense,A,High,BB,Medium,BB,Medium,545,315,315,1175,BBB,High
+Hewlett Packard Enterprise Co,Technology,B,Medium,BB,Medium,B,Medium,230,359,230,819,BB,Medium
+Hess Corp,Energy,A,High,BB,Medium,BB,Medium,535,300,305,1140,BBB,High
+Hilton Worldwide Holdings Inc,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,293,200,205,698,B,Medium
+Hormel Foods Corp,Food Products,A,High,BB,Medium,BB,Medium,570,322,300,1192,BBB,High
+HP Inc,Technology,B,Medium,B,Medium,B,Medium,245,211,200,656,B,Medium
+Humana Inc,Health Care,BBB,High,BB,Medium,BB,Medium,462,300,300,1062,BBB,High
+Howmet Aerospace Inc,Aerospace and Defense,A,High,BB,Medium,BB,Medium,525,315,320,1160,BBB,High
+Healthpeak Properties Inc,Real Estate,A,High,BB,Medium,BB,Medium,535,331,335,1201,A,High
+General Mills Inc,Food Products,A,High,BB,Medium,BB,Medium,585,326,365,1276,A,High
+General Electric Co,Industrial Conglomerates,A,High,BB,Medium,BB,Medium,533,300,300,1133,BBB,High
+Spotify Technology SA,Media,A,High,B,Medium,B,Medium,500,283,255,1038,BBB,High
+Triton International Ltd,Trading Companies and Distributors,BBB,High,BB,Medium,BB,Medium,477,306,300,1083,BBB,High
+TPG RE Finance Trust Inc,Real Estate,B,Medium,B,Medium,BB,Medium,230,239,300,769,BB,Medium
+TransUnion,Professional Services,A,High,BB,Medium,BB,Medium,510,313,310,1133,BBB,High
+Yeti Holdings Inc,Leisure Products,B,Medium,B,Medium,BB,Medium,269,253,305,827,BB,Medium
+Yelp Inc,Media,B,Medium,A,High,B,Medium,245,515,213,973,BBB,High
+Yext Inc,Technology,BB,Medium,BB,Medium,BB,Medium,325,314,310,949,BBB,High
+Spirit AeroSystems Holdings Inc,Aerospace and Defense,A,High,BB,Medium,BB,Medium,515,337,300,1152,BBB,High
+Yatsen Holding Ltd,Consumer products,BB,Medium,B,Medium,BB,Medium,355,217,325,897,BB,Medium
+Yiren Digital Ltd,Financial Services,B,Medium,B,Medium,B,Medium,200,205,205,610,B,Medium
+Yum China Holdings Inc,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,205,217,220,642,B,Medium
+Tronox Holdings PLC,Chemicals,A,High,BB,Medium,BB,Medium,503,320,300,1123,BBB,High
+Zepp Health Corp,Electrical Equipment,B,Medium,B,Medium,B,Medium,202,210,295,707,B,Medium
+Lightning eMotors Inc,Machinery,A,High,BB,Medium,B,Medium,535,391,240,1166,BBB,High
+Zuora Inc,Technology,B,Medium,B,Medium,B,Medium,240,234,200,674,B,Medium
+ZIM Integrated Shipping Services Ltd,Marine,BB,Medium,BB,Medium,BB,Medium,329,351,320,1000,BBB,High
+Zymeworks Inc,Biotechnology,B,Medium,BB,Medium,BB,Medium,240,326,305,871,BB,Medium
+Zurn Elkay Water Solutions Corp,Building,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+Clear Secure Inc,Technology,A,High,B,Medium,B,Medium,515,278,205,998,BBB,High
+Zendesk Inc,Technology,A,High,BB,Medium,BB,Medium,515,338,320,1173,BBB,High
+Plexus Corp,Electrical Equipment,A,High,BB,Medium,BB,Medium,510,300,300,1110,BBB,High
+Seanergy Maritime Holdings Corp,Marine,BB,Medium,BB,Medium,BB,Medium,345,300,305,950,BBB,High
+Shoals Technologies Group Inc,Electrical Equipment,B,Medium,B,Medium,BB,Medium,285,280,300,865,BB,Medium
+Steven Madden Ltd,Textiles Apparel and Luxury Goods,A,High,B,Medium,BB,Medium,508,231,300,1039,BBB,High
+Shyft Group Inc,Machinery,A,High,BB,Medium,B,Medium,510,303,275,1088,BBB,High
+SI-BONE Inc,Health Care,B,Medium,B,Medium,B,Medium,220,228,210,658,B,Medium
+Siebert Financial Corp,Financial Services,BB,Medium,B,Medium,B,Medium,300,299,235,834,BB,Medium
+Playa Hotels & Resorts NV,Hotels Restaurants and Leisure,B,Medium,B,Medium,B,Medium,210,200,205,615,B,Medium
+World Wrestling Entertainment Inc,Media,B,Medium,BB,Medium,BB,Medium,275,332,315,922,BBB,High
+PharmaCyte Biotech Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,220,202,300,722,B,Medium
+Wolverine World Wide Inc,Textiles Apparel and Luxury Goods,BB,Medium,B,Medium,BB,Medium,390,298,308,996,BBB,High
+Xenia Hotels & Resorts Inc,Real Estate,B,Medium,B,Medium,B,Medium,260,263,236,759,BB,Medium
+United States Steel Corp,Metals and Mining,A,High,BB,Medium,BB,Medium,535,364,300,1199,BBB,High
+Xpeng Inc,Automobiles,B,Medium,B,Medium,B,Medium,215,208,200,623,B,Medium
+XPO Logistics Inc,Road and Rail,A,High,BB,Medium,BB,Medium,560,318,300,1178,BBB,High
+Xinyuan Real Estate Co Ltd,Real Estate,B,Medium,B,Medium,BB,Medium,205,242,300,747,B,Medium
+XL Fleet Corp,Auto Components,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+X Financial,Financial Services,B,Medium,B,Medium,B,Medium,215,205,200,620,B,Medium
+Alleghany Corp,Insurance,B,Medium,B,Medium,BB,Medium,215,240,300,755,BB,Medium
+Yalla Group Ltd,Media,B,Medium,B,Medium,B,Medium,233,244,220,697,B,Medium
+Watts Water Technologies Inc,Machinery,BBB,High,BB,Medium,B,Medium,420,303,210,933,BBB,High
+Sientra Inc,Health Care,B,Medium,BB,Medium,B,Medium,219,308,236,763,BB,Medium
+Hain Celestial Group Inc,Food Products,A,High,BB,Medium,BB,Medium,520,302,305,1127,BBB,High
+MMTEC Inc,Technology,B,Medium,B,Medium,BB,Medium,221,225,305,751,BB,Medium
+Metacrine Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,210,207,330,747,B,Medium
+Molecular Templates Inc,Biotechnology,BB,Medium,BB,Medium,BB,Medium,360,325,320,1005,BBB,High
+Materialise NV,Technology,A,High,BB,Medium,BB,Medium,505,301,300,1106,BBB,High
+Mannatech Inc,Consumer products,B,Medium,B,Medium,B,Medium,200,260,230,690,B,Medium
+Matrix Service Co,Construction,A,High,BB,Medium,B,Medium,589,390,277,1256,A,High
+Halozyme Therapeutics Inc,Biotechnology,A,High,BB,Medium,BB,Medium,510,302,315,1127,BBB,High
+Hallmark Financial Services Inc,Insurance,B,Medium,B,Medium,BB,Medium,215,233,300,748,B,Medium
+MVB Financial Corp,Banking,B,Medium,B,Medium,B,Medium,210,215,215,640,B,Medium
+Microvast Holdings Inc,Machinery,B,Medium,B,Medium,B,Medium,225,282,210,717,B,Medium
+MicroVision Inc,Electrical Equipment,BBB,High,BB,Medium,BB,Medium,451,300,330,1081,BBB,High
+MaxCyte Inc,Life Sciences Tools and Services,B,Medium,BB,Medium,B,Medium,220,300,248,768,BB,Medium
+Myriad Genetics Inc,Biotechnology,BB,Medium,BB,Medium,B,Medium,353,321,294,968,BBB,High
+First Western Financial Inc,Banking,BB,Medium,BB,Medium,B,Medium,351,300,235,886,BB,Medium
+Maxlinear Inc,Semiconductors,A,High,BB,Medium,BB,Medium,535,325,335,1195,BBB,High
+MyMD Pharmaceuticals Inc,Pharmaceuticals,B,Medium,B,Medium,B,Medium,205,257,230,692,B,Medium
+Playstudios Inc,Media,B,Medium,B,Medium,B,Medium,205,202,200,607,B,Medium
+Matterport Inc,Technology,BB,Medium,BB,Medium,B,Medium,346,325,260,931,BBB,High
+MACOM Technology Solutions Holdings Inc,Semiconductors,BB,Medium,BB,Medium,B,Medium,377,309,255,941,BBB,High
+Clearone Inc,Communications,BB,Medium,B,Medium,B,Medium,370,228,210,808,BB,Medium
+Celsion Corp,Biotechnology,B,Medium,B,Medium,BB,Medium,255,214,300,769,BB,Medium
+Gulf Resources Inc,Chemicals,BBB,High,B,Medium,BB,Medium,408,206,300,914,BBB,High
+GSE Systems Inc,Technology,A,High,BB,Medium,B,Medium,505,307,245,1057,BBB,High
+Gyrodyne LLC,Real Estate,B,Medium,B,Medium,B,Medium,240,206,240,686,B,Medium
+Global Water Resources Inc,Utilities,BB,Medium,B,Medium,B,Medium,367,297,235,899,BB,Medium
+Hawaiian Holdings Inc,Airlines,B,Medium,BB,Medium,B,Medium,200,321,200,721,B,Medium
+CleanSpark Inc,Technology,A,High,BB,Medium,BB,Medium,570,326,310,1206,A,High
+Clearside Biomedical Inc,Pharmaceuticals,B,Medium,B,Medium,B,Medium,215,230,200,645,B,Medium
+Hanmi Financial Corp,Banking,B,Medium,B,Medium,B,Medium,250,207,233,690,B,Medium
+Catalyst Bancorp Inc,Financial Services,B,Medium,BB,Medium,B,Medium,260,350,267,877,BB,Medium
+Euro Tech Holdings Company Ltd,Trading Companies and Distributors,B,Medium,B,Medium,B,Medium,230,201,210,641,B,Medium
+Calyxt Inc,Biotechnology,A,High,BB,Medium,BB,Medium,535,322,325,1182,BBB,High
+Cambium Networks Corp,Communications,A,High,BB,Medium,BB,Medium,505,337,300,1142,BBB,High
+Columbus McKinnon Corp,Machinery,B,Medium,BB,Medium,B,Medium,200,323,240,763,BB,Medium
+Ever-Glory International Group Inc,Textiles Apparel and Luxury Goods,B,Medium,B,Medium,B,Medium,200,211,210,621,B,Medium
+Clovis Oncology Inc,Biotechnology,B,Medium,B,Medium,BB,Medium,225,212,300,737,B,Medium
+Clever Leaves Holdings Inc,Pharmaceuticals,B,Medium,B,Medium,B,Medium,225,243,205,673,B,Medium
+Happiness Development Group Ltd,Consumer products,B,Medium,B,Medium,BB,Medium,225,207,300,732,B,Medium
+Home Bancorp Inc,Financial Services,B,Medium,B,Medium,B,Medium,230,202,200,632,B,Medium
+Harvard Bioscience Inc,Life Sciences Tools and Services,B,Medium,B,Medium,BB,Medium,250,221,300,771,BB,Medium
+Horizon Bancorp Inc,Banking,B,Medium,BB,Medium,B,Medium,255,321,233,809,BB,Medium
+HBT Financial Inc,Banking,B,Medium,B,Medium,BB,Medium,245,275,300,820,BB,Medium
+Health Catalyst Inc,Health Care,A,High,BB,Medium,BB,Medium,545,324,320,1189,BBB,High
+Harpoon Therapeutics Inc,Biotechnology,BBB,High,BB,Medium,BB,Medium,485,300,310,1095,BBB,High
+Haynes International Inc,Metals and Mining,A,High,BB,Medium,BB,Medium,500,301,300,1101,BBB,High
+Patriot National Bancorp Inc,Banking,B,Medium,BB,Medium,B,Medium,205,302,210,717,B,Medium
+Harbor Custom Development Inc,Consumer products,B,Medium,B,Medium,B,Medium,222,221,208,651,B,Medium
+Heritage-Crystal Clean Inc,Commercial Services and Supplies,A,High,BBB,High,BB,Medium,525,400,300,1225,A,High
+Pinnacle Financial Partners Inc,Banking,B,Medium,BB,Medium,B,Medium,271,328,250,849,BB,Medium
+POINT Biopharma Global Inc,Biotechnology,BB,Medium,B,Medium,B,Medium,320,221,285,826,BB,Medium
+Predictive Oncology Inc,Health Care,B,Medium,B,Medium,B,Medium,278,297,220,795,BB,Medium
+Polar Power Inc,Electrical Equipment,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+Insulet Corp,Health Care,B,Medium,B,Medium,B,Medium,215,233,205,653,B,Medium
+Power Integrations Inc,Semiconductors,A,High,B,Medium,BB,Medium,575,285,305,1165,BBB,High
+Ammo Inc,Leisure Products,B,Medium,B,Medium,B,Medium,233,224,200,657,B,Medium
+Primeenergy Resources Corp,Energy,B,Medium,B,Medium,B,Medium,200,200,260,660,B,Medium
+Pennant Group Inc,Health Care,B,Medium,BB,Medium,B,Medium,245,306,200,751,BB,Medium
+Pacific Premier Bancorp Inc,Banking,A,High,BB,Medium,BB,Medium,565,328,315,1208,A,High
+Perma-Pipe International Holdings Inc,Machinery,A,High,B,Medium,BB,Medium,500,260,300,1060,BBB,High
+Pilgrims Pride Corp,Food Products,A,High,BB,Medium,B,Medium,500,302,220,1022,BBB,High
+PRA Group Inc,Financial Services,BBB,High,BB,Medium,BB,Medium,473,321,310,1104,BBB,High
+Pioneer Power Solutions Inc,Electrical Equipment,B,Medium,BB,Medium,BB,Medium,299,305,315,919,BBB,High
+Praxis Precision Medicines Inc,Biotechnology,B,Medium,B,Medium,B,Medium,200,215,215,630,B,Medium
+Procept Biorobotics Corp,Health Care,B,Medium,B,Medium,BB,Medium,200,224,300,724,B,Medium
+Porch Group Inc,Retail,B,Medium,B,Medium,B,Medium,225,227,215,667,B,Medium
+Perdoceo Education Corp,Diversified Consumer Services,BB,Medium,B,Medium,B,Medium,365,297,250,912,BBB,High
+Shineco Inc,Consumer products,BB,Medium,BB,Medium,BB,Medium,340,346,305,991,BBB,High
+SiTime Corp,Semiconductors,A,High,BB,Medium,BB,Medium,505,304,300,1109,BBB,High
+Sirius XM Holdings Inc,Media,B,Medium,BB,Medium,B,Medium,240,302,205,747,B,Medium
+Scienjoy Holding Corp,Media,B,Medium,BB,Medium,B,Medium,260,320,240,820,BB,Medium
+Powell Industries Inc,Electrical Equipment,A,High,B,Medium,B,Medium,500,240,215,955,BBB,High
+Upwork Inc,Professional Services,B,Medium,B,Medium,B,Medium,275,264,278,817,BB,Medium
+USA Truck Inc,Road and Rail,A,High,BB,Medium,BB,Medium,532,311,303,1146,BBB,High
+US Gold Corp,Metals and Mining,BBB,High,B,Medium,BB,Medium,400,240,300,940,BBB,High
+Universal Stainless & Alloy Products Inc,Metals and Mining,B,Medium,B,Medium,B,Medium,238,231,200,669,B,Medium
+US Energy Corp,Energy,BBB,High,B,Medium,BB,Medium,438,265,315,1018,BBB,High
+Usio Inc,Technology,B,Medium,B,Medium,B,Medium,285,245,240,770,BB,Medium
+United Therapeutics Corp,Biotechnology,B,Medium,B,Medium,BB,Medium,233,259,300,792,BB,Medium
+Urogen Pharma Ltd,Biotechnology,B,Medium,B,Medium,B,Medium,210,251,290,751,BB,Medium
+Urban Outfitters Inc,Retail,BB,Medium,BB,Medium,BB,Medium,335,300,300,935,BBB,High
+Utime Ltd,Electrical Equipment,B,Medium,B,Medium,B,Medium,217,200,200,617,B,Medium
+Minerva Surgical Inc,Health Care,B,Medium,B,Medium,B,Medium,205,201,210,616,B,Medium
+UTStarcom Holdings Corp,Communications,BB,Medium,BB,Medium,BB,Medium,340,310,365,1015,BBB,High
+Uxin Ltd,Retail,B,Medium,B,Medium,B,Medium,203,202,225,630,B,Medium
+Univest Financial Corp,Banking,BB,Medium,BB,Medium,BB,Medium,331,322,305,958,BBB,High
+Cheetah Mobile Inc,Technology,B,Medium,B,Medium,B,Medium,205,214,215,634,B,Medium
+Commercial Metals Co,Metals and Mining,B,Medium,B,Medium,B,Medium,223,212,200,635,B,Medium
+United States Lime & Minerals Inc,Construction,A,High,B,Medium,BB,Medium,500,233,300,1033,BBB,High
+Utah Medical Products Inc,Health Care,B,Medium,B,Medium,B,Medium,240,236,250,726,B,Medium
+Compass Minerals International Inc,Metals and Mining,A,High,BB,Medium,BB,Medium,505,302,320,1127,BBB,High
+CNFinance Holdings Ltd,Financial Services,B,Medium,B,Medium,B,Medium,200,200,220,620,B,Medium
+Conmed Corp,Health Care,BBB,High,BB,Medium,B,Medium,441,300,270,1011,BBB,High
+Cinemark Holdings Inc,Media,BB,Medium,BB,Medium,BB,Medium,330,300,300,930,BBB,High
+Cannae Holdings Inc,Financial Services,B,Medium,B,Medium,B,Medium,215,203,203,621,B,Medium
+CNO Financial Group Inc,Insurance,A,High,BB,Medium,BB,Medium,500,322,315,1137,BBB,High
+CNA Financial Corp,Insurance,A,High,BB,Medium,BB,Medium,540,329,340,1209,A,High
+Costamare Inc,Marine,B,Medium,B,Medium,B,Medium,242,204,200,646,B,Medium
+Granite Construction Inc,Construction,B,Medium,B,Medium,B,Medium,200,200,200,600,B,Medium
+Fabrinet,Electrical Equipment,A,High,B,Medium,B,Medium,510,209,210,929,BBB,High
+Hyatt Hotels Corp,"Hotels, Restaurants & Leisure",B,Medium,B,Medium,B,Medium,235,209,205,649,B,Medium
+Hannon Armstrong Sustainable Infrastructure Capital Inc,Real Estate,AA,Excellent,BBB,High,BB,Medium,646,404,313,1363,A,High
+Hayward Holdings Inc,Building,A,High,BB,Medium,BB,Medium,535,305,300,1140,BBB,High
+Hamilton Beach Brands Holding Co,Consumer products,B,Medium,B,Medium,B,Medium,245,272,230,747,B,Medium
+Warrior Met Coal Inc,Metals & Mining,B,Medium,B,Medium,B,Medium,215,200,200,615,B,Medium
+Hci Group Inc,Insurance,B,Medium,B,Medium,BB,Medium,205,260,300,765,BB,Medium
+Hawaiian Electric Industries Inc,Utilities,A,High,BB,Medium,BB,Medium,585,348,310,1243,A,High
+Guidewire Software Inc,Technology,A,High,BB,Medium,BB,Medium,549,321,330,1200,A,High
+Haemonetics Corp,Health Care,BBB,High,BB,Medium,BB,Medium,448,303,305,1056,BBB,High
+Holly Energy Partners LP,Energy ,A,High,B,Medium,B,Medium,511,225,215,951,BBB,High
+Hilton Grand Vacations Inc,"Hotels, Restaurants & Leisure",BB,Medium,B,Medium,B,Medium,305,288,250,843,BB,Medium
+Hillenbrand Inc,Machinery,BBB,High,BB,Medium,BB,Medium,489,349,300,1138,BBB,High
+Howard Hughes Corp,Real Estate,A,High,BB,Medium,BB,Medium,500,300,300,1100,BBB,High
+HubSpot Inc,Technology,BBB,High,BB,Medium,BB,Medium,480,329,320,1129,BBB,High
+Hess Midstream LP,Energy ,BB,Medium,B,Medium,B,Medium,307,257,255,819,BB,Medium
+HEICO Corp,Aerospace & Defense,B,Medium,B,Medium,B,Medium,225,203,205,633,B,Medium

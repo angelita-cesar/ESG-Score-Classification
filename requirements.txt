@@ -1,0 +1,11 @@
+pandas
+numpy
+mlflow
+scikit-learn>=1.4.0
+streamlit
+streamlit-option-menu
+plotly
+matplotlib
+sns
+seaborn
+skops

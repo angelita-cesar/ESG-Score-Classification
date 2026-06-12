@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/mikae/OneDrive/%C3%81rea%20de%20Trabalho/CESAR/Projetos%203/mlruns/148541018211774219/6b5cb503a9804a94b4747aa69a43816b/artifacts
+end_time: 1780529952330
+entry_point_name: ''
+experiment_id: '148541018211774219'
+lifecycle_stage: active
+run_id: 6b5cb503a9804a94b4747aa69a43816b
+run_name: Otimizacao_Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780529947815
+status: 3
+tags: []
+user_id: mikae

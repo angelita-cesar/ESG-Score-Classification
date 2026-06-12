@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/mikae/OneDrive/%C3%81rea%20de%20Trabalho/CESAR/Projetos%203/mlruns/148541018211774219/models/m-dc947568d78741968c3d93d6a3768ed5/artifacts
+creation_timestamp: 1780520530820
+experiment_id: '148541018211774219'
+last_updated_timestamp: 1780520535658
+model_id: m-dc947568d78741968c3d93d6a3768ed5
+model_type: null
+name: modelo_decision_tree
+source_run_id: 604c1f76385f4774b5d9492bff7fbb45
+status: 2
+status_message: null

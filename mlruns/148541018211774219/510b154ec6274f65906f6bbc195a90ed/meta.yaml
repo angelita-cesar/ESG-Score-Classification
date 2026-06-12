@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/mikae/OneDrive/%C3%81rea%20de%20Trabalho/CESAR/Projetos%203/mlruns/148541018211774219/510b154ec6274f65906f6bbc195a90ed/artifacts
+end_time: 1780531391755
+entry_point_name: ''
+experiment_id: '148541018211774219'
+lifecycle_stage: active
+run_id: 510b154ec6274f65906f6bbc195a90ed
+run_name: Otimizacao_Decision_Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780531387486
+status: 3
+tags: []
+user_id: mikae

@@ -27,8 +27,8 @@ O Prisma Key é uma solução orientada a dados desenvolvida para o monitorament
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/prisma-key.git
-   cd prisma-key
+   git clone https://github.com/seu-usuario/ESG-Score-Classification.git
+   cd ESG-Score-Classification
    ```
 
 2. **Crie e ative um ambiente virtual:**
@@ -56,12 +56,12 @@ O Prisma Key é uma solução orientada a dados desenvolvida para o monitorament
 
 1. **Construa a imagem:**
    ```bash
-   docker build -t prisma-key .
+   docker build -t ESG-Score-Classification .
    ```
 
 2. **Execute o container:**
    ```bash
-   docker run -p 8501:8501 prisma-key
+   docker run -p 8501:8501 ESG-Score-Classification
    ```
    *Após a execução, acesse `http://localhost:8501` no seu navegador.*
 

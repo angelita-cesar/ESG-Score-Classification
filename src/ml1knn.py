@@ -25,7 +25,7 @@ tracking_uri = os.environ.get("MLFLOW_TRACKING_URI", "http://localhost:5000")
 mlflow.set_tracking_uri(tracking_uri)
 mlflow.set_experiment("Prisma_key_kF")
 
-df = pd.read_csv("base_tratada.csv")
+df = pd.read_csv("../data/base_tratada.csv")
 
 colunas_alvo = ['total_score', 'total_grade', 'total_level']
 X = df.drop(columns=[col for col in colunas_alvo if col in df.columns] + ['name'], errors='ignore')

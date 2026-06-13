@@ -1,0 +1,14 @@
+ticker,name,currency,exchange,industry,logo,weburl,environment_grade,environment_level,social_grade,social_level,governance_grade,governance_level,environment_score,social_score,governance_score,total_score,last_processing_date,total_grade,total_level,cik
+aaci,Armada Acquisition Corp I,USD,NASDAQ NMS - GLOBAL MARKET,,,,B,Medium,B,Medium,B,Medium,205,200,200,605,20-06-2022,B,Medium,1844817
+acac,Acri Capital Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,,,B,Medium,B,Medium,BB,Medium,200,205,300,705,10-06-2022,B,Medium,1914023
+acev,ACE Convergence Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,https://static.finnhub.io/logo/d86f14d77a3f95acbb00c602a4e2d735df7f2d3cfd22be9263a22876630ae65d.png,http://acev.io/home/,B,Medium,B,Medium,B,Medium,225,211,215,651,10-06-2022,B,Medium,1813658
+adoc,Edoc Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,,,B,Medium,BB,Medium,BB,Medium,215,301,300,816,16-04-2022,BB,Medium,1824884
+afaq,AF Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,,,B,Medium,B,Medium,B,Medium,200,200,200,600,21-06-2022,B,Medium,1841661
+aib,AIB Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,,,B,Medium,B,Medium,BB,Medium,215,227,300,742,24-05-2022,B,Medium,1882963
+akic,Sports Ventures Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,,,B,Medium,B,Medium,B,Medium,200,205,230,635,11-06-2022,B,Medium,1826574
+alhc,Alignment Healthcare LLC,USD,NASDAQ NMS - GLOBAL MARKET,,https://static.finnhub.io/logo/de5dbbf80fc814b921a6c8c5dbf9419a4bf46742aaa0f34752661418ffaa4158.png,https://www.alignmenthealthcare.com,B,Medium,BB,Medium,B,Medium,210,302,256,768,10-06-2022,BB,Medium,1832466
+haac,Health Assurance Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,https://static.finnhub.io/logo/10782d05345d090968318541e01749311cc3c39a659e56b85eb2b4b525417568.png,https://www.healthassuranceacqcorp.com/,B,Medium,B,Medium,BB,Medium,200,258,300,758,10-06-2022,BB,Medium,1824013
+hcar,Healthcare Services Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,https://static.finnhub.io/logo/5de446295c78d793f321802ddf19b35eb0b0dcad6fd702aea8f76cdb18ba2bea.png,https://www.healthcarespac.com/,B,Medium,B,Medium,BB,Medium,245,205,300,750,10-06-2022,BB,Medium,1824846
+pre,Artisan Acquisition Corp,USD,NASDAQ NMS - GLOBAL MARKET,,,,B,Medium,B,Medium,B,Medium,245,203,265,713,22-04-2022,B,Medium,1876431
+pow,Powered Brands,USD,NASDAQ NMS - GLOBAL MARKET,,,,B,Medium,B,Medium,B,Medium,235,231,250,716,20-04-2022,B,Medium,1829427
+cnd,Concord Acquisition Corp,USD,"NEW YORK STOCK EXCHANGE, INC.",,https://static2.finnhub.io/file/publicdatany/finnhubimage/stock_logo/CND.svg,,B,Medium,B,Medium,BB,Medium,205,257,300,762,12-11-2022,BB,Medium,1824301

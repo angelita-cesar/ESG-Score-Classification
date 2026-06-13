@@ -21,7 +21,7 @@ st.markdown("---")
 # ==============================================================================
 @st.cache_data
 def carregar_dados():
-    df = pd.read_csv("base_tratada.csv")
+    df = pd.read_csv("../data/base_tratada.csv")
     return df
 
 try:

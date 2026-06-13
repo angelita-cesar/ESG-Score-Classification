@@ -69,11 +69,16 @@ O Prisma Key é uma solução orientada a dados desenvolvida para o monitorament
 ## 🛠️ Estrutura do Repositório
 
 ```text
-├── data/           # Amostras da base de dados de fornecedores
-├── notebooks/      # Análise Exploratória (EDA) e prototipagem de modelos
-├── src/            # Scripts modulares de pré-processamento e treinamento
-├── app/            # Código da aplicação (Dashboard Streamlit)
-├── mlruns/         # Rastreamento de experimentos e métricas (MLflow)
-├── Dockerfile      # Configuração para containerização da solução
-├── requirements.txt # Dependências do projeto
-└── README.md       # Documentação principal
+├── dashboard/             # Dashboard Streamlit
+├── mlruns/                # Rastreamento de experimentos e métricas (MLflow)
+├── data/                  # Dados
+├── mls/                   # Diretório auxiliar de metadados/modelos
+├── notebooks/             # EDA e tratamentos
+├── src/                   # Scripts modulares de treinamento de Machine Learning
+├── docker-compose.yml     # Orquestração dos containers (ex: MLflow + Dashboard)
+├── Dockerfile             # Configuração para containerização principal
+├── Dockerfile.dashboard   # Configuração para containerização específica do Dashboard
+├── mlflow.db              # Banco de dados local do MLflow
+├── README.md              # Documentação principal do projeto
+├── requirements.txt       # Dependências do projeto
+└── save.txt               # Arquivos de log/salvamento genérico
